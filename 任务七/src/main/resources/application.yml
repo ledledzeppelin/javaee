@@ -1,0 +1,7 @@
+# JWT配置
+jwt.secret=your_secret_key
+jwt.expirationInMs=3600000 # 令牌过期时间（毫秒）
+  
+  # Spring Security配置
+security.user.name=admin
+security.user.password=admin_password
